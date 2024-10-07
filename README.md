@@ -21,6 +21,21 @@ Below are the SQL queries used for cleansing and transforming the necessary data
 
 ![image](https://github.com/user-attachments/assets/caa45937-5db7-4038-93a3-5b1ec25faaa3)
 
+Data Model
+---------------
+In Power BI, a data model is essentially the backbone of any analysis. It organizes and connects tables in a way that allows us to analyze data effectively. We build the relationships using keys like primary keys (unique identifiers for each row in a table) and foreign keys (columns that link to primary keys in another table).
+
+In this case, after cleaning and transforming the raw data, the tables were brought into Power BI and linked based on common fields, such as customer codes, product codes, or dates. This setup enables us to create visualizations that pull relevant data from multiple tables, ensuring consistent, accurate insights.
+
+![image](https://github.com/user-attachments/assets/355e6943-2a52-4f93-9b24-0e4091e498e3)
+
+Dashboard
+----------------
+https://app.powerbi.com/view?r=eyJrIjoiZTYzZjVmNjEtOWE2MC00ZGY2LWE2NWYtNTkwNjQ1NzgyYzJiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+![image](https://github.com/user-attachments/assets/0058c4e4-5d92-465e-9fb8-a0d0c205a657)
+
+
+
 
 
 
