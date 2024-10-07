@@ -13,26 +13,5 @@ Additionally, an external data source containing the sales budget, provided in E
 
 Below are the SQL queries used for cleansing and transforming the necessary data.
 
-Dim_Calendar
-SELECT [DateKey]
-      ,[FullDateAlternateKey] as date
-   --   ,[DayNumberOfWeek]
-      ,[EnglishDayNameOfWeek] as day
-    --  ,[SpanishDayNameOfWeek]
-    --  ,[FrenchDayNameOfWeek]
-    --  ,[DayNumberOfMonth]
-    --  ,[DayNumberOfYear]
-      ,[WeekNumberOfYear] as weekNo
-      ,[EnglishMonthName] as month,
-	  LEFT(EnglishMonthName, 3) as shortMonth
-     -- ,[SpanishMonthName]
-     -- ,[FrenchMonthName]
-      ,[MonthNumberOfYear] as monthNo
-      ,[CalendarQuarter] as quarter
-      ,[CalendarYear] as year
-   --   ,[CalendarSemester]
-   --   ,[FiscalQuarter]
-   --   ,[FiscalYear]
-   --   ,[FiscalSemester]
-  FROM [AdventureWorksDW2022].[dbo].[DimDate]
-  where CalendarYear >= 2022;
+![image](https://github.com/user-attachments/assets/63a65be4-e212-4a96-97ad-7de2a4f76576)
+
