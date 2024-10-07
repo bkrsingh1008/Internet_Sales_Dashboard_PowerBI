@@ -32,6 +32,8 @@ In this case, after cleaning and transforming the raw data, the tables were brou
 ⚡️Dashboard
 ----------------
 https://app.powerbi.com/view?r=eyJrIjoiZTYzZjVmNjEtOWE2MC00ZGY2LWE2NWYtNTkwNjQ1NzgyYzJiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+
 ![image](https://github.com/user-attachments/assets/0058c4e4-5d92-465e-9fb8-a0d0c205a657)
 
 
