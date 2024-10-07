@@ -12,3 +12,27 @@ To build the required data model for analysis and meet the business objectives o
 Additionally, an external data source containing the sales budget, provided in Excel format, was integrated into the data model during the later stages of the process.
 
 Below are the SQL queries used for cleansing and transforming the necessary data.
+
+Dim_Calendar
+SELECT [DateKey]
+      ,[FullDateAlternateKey] as date
+   --   ,[DayNumberOfWeek]
+      ,[EnglishDayNameOfWeek] as day
+    --  ,[SpanishDayNameOfWeek]
+    --  ,[FrenchDayNameOfWeek]
+    --  ,[DayNumberOfMonth]
+    --  ,[DayNumberOfYear]
+      ,[WeekNumberOfYear] as weekNo
+      ,[EnglishMonthName] as month,
+	  LEFT(EnglishMonthName, 3) as shortMonth
+     -- ,[SpanishMonthName]
+     -- ,[FrenchMonthName]
+      ,[MonthNumberOfYear] as monthNo
+      ,[CalendarQuarter] as quarter
+      ,[CalendarYear] as year
+   --   ,[CalendarSemester]
+   --   ,[FiscalQuarter]
+   --   ,[FiscalYear]
+   --   ,[FiscalSemester]
+  FROM [AdventureWorksDW2022].[dbo].[DimDate]
+  where CalendarYear >= 2022;
