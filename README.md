@@ -15,3 +15,12 @@ Below are the SQL queries used for cleansing and transforming the necessary data
 
 ![image](https://github.com/user-attachments/assets/63a65be4-e212-4a96-97ad-7de2a4f76576)
 
+![image](https://github.com/user-attachments/assets/dcdff800-6afa-44e7-9331-ef4b6092015a)
+
+![image](https://github.com/user-attachments/assets/a64f1c22-df0a-4bbc-8c24-41d0f63e18eb)
+
+![image](https://github.com/user-attachments/assets/caa45937-5db7-4038-93a3-5b1ec25faaa3)
+
+
+
+
