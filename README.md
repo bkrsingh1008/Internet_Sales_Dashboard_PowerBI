@@ -36,6 +36,13 @@ https://app.powerbi.com/view?r=eyJrIjoiZTYzZjVmNjEtOWE2MC00ZGY2LWE2NWYtNTkwNjQ1N
 
 ![image](https://github.com/user-attachments/assets/0058c4e4-5d92-465e-9fb8-a0d0c205a657)
 
+💡 Business Impact:
+This dynamic dashboard empowers the sales team to make data-driven decisions, identify opportunities for growth, and react quickly to changes in customer demand. By moving from static reports to interactive dashboards, the organization can now:
+
+Optimize sales strategies with real-time insights.
+Identify underperforming areas and address them proactively.
+Monitor performance at different levels (product, customer, salesperson) and take corrective actions more efficiently.
+
 
 
 
