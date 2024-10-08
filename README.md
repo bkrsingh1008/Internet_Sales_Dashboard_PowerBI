@@ -40,7 +40,9 @@ https://app.powerbi.com/view?r=eyJrIjoiZTYzZjVmNjEtOWE2MC00ZGY2LWE2NWYtNTkwNjQ1N
 This dynamic dashboard empowers the sales team to make data-driven decisions, identify opportunities for growth, and react quickly to changes in customer demand. By moving from static reports to interactive dashboards, the organization can now:
 
 Optimize sales strategies with real-time insights.
+
 Identify underperforming areas and address them proactively.
+
 Monitor performance at different levels (product, customer, salesperson) and take corrective actions more efficiently.
 
 
